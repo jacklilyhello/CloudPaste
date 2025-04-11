@@ -495,4 +495,3 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ling-drag0n/CloudPaste&type=Date)](https://star-history.com/#ling-drag0n/CloudPaste&Date)
 
-**If you think the project is good I hope you can give a free star✨✨, Thank you very much!**
